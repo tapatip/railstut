@@ -62,6 +62,25 @@ font: bold smaller sans-serif;
     width: 13em;
    
     background: #141;
+
+  form, div {
+    display: inline;
+  }
+
+  input {
+    font-size: small;
+  }
+
+  #cart {
+    font-size: smaller;
+    color: #ffffff;
+
+    table {
+      border-top: 1px dotted #595;
+      border-bottom: 1px dotted #595;
+      margin-bottom: 10px;
+    }
+  }
  
  
 ul {
